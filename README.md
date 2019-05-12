@@ -8,4 +8,11 @@ MAIN FEATURES
 --- Ability to set different Home-Pages in different Tabs which allows quick and easy access to numerous websites.  
 --- Very small size.  
 --- Simple and Clean User Interface that makes the browser very fast and efficient.  
---- Requires very few permissons making the browser VERY SECURE.  
+--- Requires very few permissons making the browser VERY SECURE.    
+
+
+# Screenshots
+
+![alt text](adhungana.com.np/img/ad_browser_1.png)  
+![alt text](adhungana.com.np/img/ad_browser_2.png)  
+![alt text](adhungana.com.np/img/ad_browser_3.png)  
