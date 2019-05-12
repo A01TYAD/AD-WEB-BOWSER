@@ -13,6 +13,6 @@ MAIN FEATURES
 
 # Screenshots
 
-![alt text](adhungana.com.np/img/ad_browser_1.png)  
-![alt text](adhungana.com.np/img/ad_browser_2.png)  
-![alt text](adhungana.com.np/img/ad_browser_3.png)  
+![](http://www.adhungana.com.np/img/ad_browser_1.png)  
+![](http://www.adhungana.com.np/img/ad_browser_2.png)  
+![](Http://www.adhungana.com.np/img/ad_browser_3.png)  
