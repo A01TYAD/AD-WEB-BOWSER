@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA\.android\build-cache\d5e1cde476d72e1ea7112797d0cd2e6e3a91da3d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\ADITYA\AndroidStudioProjects\ADBrowser\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cbe496486b0df1df6ac1aa69bde8c3a1a8cecff0\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA\.android\build-cache\b3c004d6819d682323cd83b405409c7df686765d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\ADITYA\AndroidStudioProjects\ADBrowser\app\build\intermediates\pre-dexed\release\classes_c358955d33d48b04a8d0a8164f9413adfbb54c84.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA\.android\build-cache\2ab1711813c6576af47ac08efd908c3b49c54877\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\ADITYA\AndroidStudioProjects\ADBrowser\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_e1b0c7f15a99b259bfa146d48927fe33a6334cf7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\ADITYA\AndroidStudioProjects\ADBrowser\app\build\intermediates\pre-dexed\release\support-annotations-25.0.0_94d7a75bd2d85e65056aa328d95d899ca7e9cd3a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA\AndroidStudioProjects\ADBrowser\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1752de612835cb019879c20ab7c8fff397d7e4b5">
+        <dex dex="C:\Users\ADITYA\AndroidStudioProjects\ADBrowser\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_62629d8ececa6400c04263dde498f1469e545795\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA\.android\build-cache\70ba376ceda9c5f6a9996c0540005a684e1bd64f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\ADITYA\AndroidStudioProjects\ADBrowser\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_be7b0e518a7e080bd48587d1688677d94df00c4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA\.android\build-cache\31b1a8d0b6c0c9cddff440b7989ed1b669ab4078\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa112f9589a72edd6c8458764cd65e80a39e6d8c">
+        <dex dex="C:\Users\ADITYA\AndroidStudioProjects\ADBrowser\app\build\intermediates\pre-dexed\release\classes_2fe0fe644f721586c919b9a10d2a0ea852fe97e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA\.android\build-cache\70ba376ceda9c5f6a9996c0540005a684e1bd64f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\ADITYA\AndroidStudioProjects\ADBrowser\app\build\intermediates\pre-dexed\release\classes_be7b0e518a7e080bd48587d1688677d94df00c4f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA\.android\build-cache\b3c004d6819d682323cd83b405409c7df686765d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\ADITYA\AndroidStudioProjects\ADBrowser\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c358955d33d48b04a8d0a8164f9413adfbb54c84\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA\.android\build-cache\d5e1cde476d72e1ea7112797d0cd2e6e3a91da3d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\ADITYA\AndroidStudioProjects\ADBrowser\app\build\intermediates\pre-dexed\release\classes_cbe496486b0df1df6ac1aa69bde8c3a1a8cecff0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA\.android\build-cache\31b1a8d0b6c0c9cddff440b7989ed1b669ab4078\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa112f9589a72edd6c8458764cd65e80a39e6d8c">
+        <dex dex="C:\Users\ADITYA\AndroidStudioProjects\ADBrowser\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2fe0fe644f721586c919b9a10d2a0ea852fe97e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\ADITYA\AndroidStudioProjects\ADBrowser\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_94d7a75bd2d85e65056aa328d95d899ca7e9cd3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA\.android\build-cache\abcb7484adec57f80c60d9a53646efe8ff019318\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\ADITYA\AndroidStudioProjects\ADBrowser\app\build\intermediates\pre-dexed\release\classes_9abfd7f9660db3c6269dcaee4e83b8c24a2f7adb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA\.android\build-cache\abcb7484adec57f80c60d9a53646efe8ff019318\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\ADITYA\AndroidStudioProjects\ADBrowser\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9abfd7f9660db3c6269dcaee4e83b8c24a2f7adb\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA\.android\build-cache\187539e133a19cae6ed2ef859482c2f4621f1726\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="C:\Users\ADITYA\AndroidStudioProjects\ADBrowser\app\build\intermediates\pre-dexed\release\classes_028165e7134cd648743d1682450d186b9868f18f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA\.android\build-cache\2ab1711813c6576af47ac08efd908c3b49c54877\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\ADITYA\AndroidStudioProjects\ADBrowser\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f86bd3946ff178d49687983d0e618bd146cf207a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA\AndroidStudioProjects\ADBrowser\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\ADITYA\AndroidStudioProjects\ADBrowser\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b5063940ddef464491e33f06aa1ef593fe6eda6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA\.android\build-cache\2ab1711813c6576af47ac08efd908c3b49c54877\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\ADITYA\AndroidStudioProjects\ADBrowser\app\build\intermediates\pre-dexed\release\internal_impl-25.0.0_e1b0c7f15a99b259bfa146d48927fe33a6334cf7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA\.android\build-cache\70ba376ceda9c5f6a9996c0540005a684e1bd64f\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\ADITYA\AndroidStudioProjects\ADBrowser\app\build\intermediates\pre-dexed\release\internal_impl-25.0.0_86635b7401811f60fd47f2af010454f2dee3a917.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA\.android\build-cache\187539e133a19cae6ed2ef859482c2f4621f1726\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="C:\Users\ADITYA\AndroidStudioProjects\ADBrowser\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_028165e7134cd648743d1682450d186b9868f18f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA\.android\build-cache\70ba376ceda9c5f6a9996c0540005a684e1bd64f\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\ADITYA\AndroidStudioProjects\ADBrowser\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_86635b7401811f60fd47f2af010454f2dee3a917\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA\.android\build-cache\98c2561a886af28bc841886837343d13abeade0f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\ADITYA\AndroidStudioProjects\ADBrowser\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1785f767e9694bf445971d62dc1c5ab4d574daa5\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA\.android\build-cache\98c2561a886af28bc841886837343d13abeade0f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\ADITYA\AndroidStudioProjects\ADBrowser\app\build\intermediates\pre-dexed\release\classes_1785f767e9694bf445971d62dc1c5ab4d574daa5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA\.android\build-cache\2ab1711813c6576af47ac08efd908c3b49c54877\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\ADITYA\AndroidStudioProjects\ADBrowser\app\build\intermediates\pre-dexed\release\classes_f86bd3946ff178d49687983d0e618bd146cf207a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA\.android\build-cache\d5e1cde476d72e1ea7112797d0cd2e6e3a91da3d\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\ADITYA\AndroidStudioProjects\ADBrowser\app\build\intermediates\pre-dexed\release\internal_impl-25.0.0_2d4f5e1411913a0bc21f82514c3fcaaa42ec79c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA\.android\build-cache\a355f1a16e4940724d2cf595ddab7824546cb5f1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\ADITYA\AndroidStudioProjects\ADBrowser\app\build\intermediates\pre-dexed\release\classes_9164d073f7b1ede3557ee6cdcca2820234f34818.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA\.android\build-cache\722c38b8f65720e7d11511d8d22daa06e85281cc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\ADITYA\AndroidStudioProjects\ADBrowser\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_63286c1d1521324157a29a014ecedd66b18c2d20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA\.android\build-cache\a355f1a16e4940724d2cf595ddab7824546cb5f1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\ADITYA\AndroidStudioProjects\ADBrowser\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9164d073f7b1ede3557ee6cdcca2820234f34818\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA\.android\build-cache\722c38b8f65720e7d11511d8d22daa06e85281cc\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\ADITYA\AndroidStudioProjects\ADBrowser\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_a854ef9d45460d803346a0fa7798faa013d54269\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA\.android\build-cache\a117c77562ba26acf74e5773d3fd3a56d5ca034c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="233d7b99554a76a66316b56ba4f00184abb32ced">
+        <dex dex="C:\Users\ADITYA\AndroidStudioProjects\ADBrowser\app\build\intermediates\pre-dexed\release\classes_e3ace5d6f360fa579ee62377b11a468913d9b5b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA\.android\build-cache\722c38b8f65720e7d11511d8d22daa06e85281cc\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\ADITYA\AndroidStudioProjects\ADBrowser\app\build\intermediates\pre-dexed\release\internal_impl-25.0.0_a854ef9d45460d803346a0fa7798faa013d54269.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA\.android\build-cache\a117c77562ba26acf74e5773d3fd3a56d5ca034c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="233d7b99554a76a66316b56ba4f00184abb32ced">
+        <dex dex="C:\Users\ADITYA\AndroidStudioProjects\ADBrowser\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e3ace5d6f360fa579ee62377b11a468913d9b5b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA\.android\build-cache\a355f1a16e4940724d2cf595ddab7824546cb5f1\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\ADITYA\AndroidStudioProjects\ADBrowser\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_2ca17625fc7409af586a3a50e76e89c6c7f3b102\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA\.android\build-cache\b00fae51d608d0f21b6886a3a4db8ab3c89dd0ca\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\ADITYA\AndroidStudioProjects\ADBrowser\app\build\intermediates\pre-dexed\release\classes_1726722613cef40ae135d38ddc54a27d3527f47e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA\.android\build-cache\722c38b8f65720e7d11511d8d22daa06e85281cc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\ADITYA\AndroidStudioProjects\ADBrowser\app\build\intermediates\pre-dexed\release\classes_63286c1d1521324157a29a014ecedd66b18c2d20.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA\.android\build-cache\b00fae51d608d0f21b6886a3a4db8ab3c89dd0ca\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\ADITYA\AndroidStudioProjects\ADBrowser\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1726722613cef40ae135d38ddc54a27d3527f47e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADITYA\.android\build-cache\a355f1a16e4940724d2cf595ddab7824546cb5f1\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\ADITYA\AndroidStudioProjects\ADBrowser\app\build\intermediates\pre-dexed\release\internal_impl-25.0.0_2ca17625fc7409af586a3a50e76e89c6c7f3b102.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ADITYA\.android\build-cache\d5e1cde476d72e1ea7112797d0cd2e6e3a91da3d\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\ADITYA\AndroidStudioProjects\ADBrowser\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_2d4f5e1411913a0bc21f82514c3fcaaa42ec79c3\classes.dex" />
+    </item>
+
+</items>

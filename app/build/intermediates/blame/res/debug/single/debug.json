@@ -1,0 +1,678 @@
+[
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btnmenu.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xhdpi\\btnmenu.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_btnfor.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-ldpi\\btnfor.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_btnforpressed.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-ldpi\\btnforpressed.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btnfullpressed.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-mdpi\\btnfullpressed.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_btnmenu.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-ldpi\\btnmenu.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_btn_ref.xml.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-ldpi\\btn_ref.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_ref.xml.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xhdpi\\btn_ref.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_btn_small.xml.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-ldpi\\btn_small.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btnmenu.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-mdpi\\btnmenu.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_btngopressed.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-ldpi\\btngopressed.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_btn_back.xml.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-ldpi\\btn_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btnfullpressed.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-hdpi\\btnfullpressed.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_settings.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xhdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_btn_home.xml.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-ldpi\\btn_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btnfull.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\btnfull.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_back.xml.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\btn_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btnfull.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-hdpi\\btnfull.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btnref.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\btnref.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btnfullpressed.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xhdpi\\btnfullpressed.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_exit.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-mdpi\\exit.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_full.xml.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-mdpi\\btn_full.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_go.xml.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-hdpi\\btn_go.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_back.xml.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-mdpi\\btn_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_btn_full.xml.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-ldpi\\btn_full.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btnrefpressed.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-hdpi\\btnrefpressed.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_full.xml.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\btn_full.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btnrefpressed.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-mdpi\\btnrefpressed.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_home.xml.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-hdpi\\btn_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_ref.xml.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-mdpi\\btn_ref.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btnrefpressed.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xhdpi\\btnrefpressed.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_for.xml.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xhdpi\\btn_for.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_delete.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xhdpi\\delete.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\layout_history_item_layout.xml.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\layout\\history_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_btn_for.xml.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-ldpi\\btn_for.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_btn_stop.xml.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-ldpi\\btn_stop.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btnref.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-hdpi\\btnref.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_stop.xml.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-mdpi\\btn_stop.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_stop.xml.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\btn_stop.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btnmenupressed.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\btnmenupressed.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btnstop.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xhdpi\\btnstop.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btnsmallpressed.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-hdpi\\btnsmallpressed.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_small.xml.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-mdpi\\btn_small.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_go.xml.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\btn_go.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btnback.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-hdpi\\btnback.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btnmenupressed.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xhdpi\\btnmenupressed.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\menu_ad_browser.xml.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\menu\\ad_browser.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_delete.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-mdpi\\delete.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_for.xml.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-hdpi\\btn_for.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btnbackpressed.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-mdpi\\btnbackpressed.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btnback.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\btnback.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btnforpressed.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-hdpi\\btnforpressed.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_for.xml.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\btn_for.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_small.xml.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\btn_small.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_small.xml.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xhdpi\\btn_small.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_menu.xml.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xhdpi\\btn_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_for.xml.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-mdpi\\btn_for.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btnback.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-mdpi\\btnback.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_full.xml.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xhdpi\\btn_full.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_asd.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xhdpi\\asd.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btnstoppressed.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\btnstoppressed.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btnhome.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xhdpi\\btnhome.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btnhomepressed.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xhdpi\\btnhomepressed.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_btnfullpressed.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-ldpi\\btnfullpressed.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_asd.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-mdpi\\asd.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btnforpressed.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\btnforpressed.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_full.xml.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-hdpi\\btn_full.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ad_browser.xml.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\layout\\activity_ad_browser.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\menu_bmenu.xml.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\menu\\bmenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btngo.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\btngo.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_delete.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-ldpi\\delete.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_exit.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-ldpi\\exit.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_home.xml.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\btn_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btnsmall.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xhdpi\\btnsmall.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btnstoppressed.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-hdpi\\btnstoppressed.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btngopressed.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-hdpi\\btngopressed.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_ref.xml.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-hdpi\\btn_ref.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_ref.xml.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\btn_ref.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_settings.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-hdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_btnbackpressed.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-ldpi\\btnbackpressed.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btnhome.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\btnhome.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btnhome.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-hdpi\\btnhome.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btnsmall.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-hdpi\\btnsmall.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btnfor.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-mdpi\\btnfor.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_stop.xml.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-hdpi\\btn_stop.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\layout-small_activity_ad_browser.xml.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\layout-small\\activity_ad_browser.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_menu.xml.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-hdpi\\btn_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btngo.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-hdpi\\btngo.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btnsmallpressed.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-mdpi\\btnsmallpressed.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btnfull.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xhdpi\\btnfull.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_stop.xml.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xhdpi\\btn_stop.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_btnfull.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-ldpi\\btnfull.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher1.jpg.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\layout-large_activity_ad_browser.xml.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\layout-large\\activity_ad_browser.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_btnsmallpressed.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-ldpi\\btnsmallpressed.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btngopressed.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\btngopressed.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_asd.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-hdpi\\asd.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btnstoppressed.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-mdpi\\btnstoppressed.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btnfull.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-mdpi\\btnfull.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_go.xml.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xhdpi\\btn_go.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btngo.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xhdpi\\btngo.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_btnhomepressed.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-ldpi\\btnhomepressed.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btnbackpressed.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\btnbackpressed.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher1.jpg.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btnforpressed.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-mdpi\\btnforpressed.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_btngo.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-ldpi\\btngo.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_small.xml.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-hdpi\\btn_small.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_btnmenupressed.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-ldpi\\btnmenupressed.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_go.xml.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-mdpi\\btn_go.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_btn_menu.xml.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-ldpi\\btn_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_menu.xml.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\btn_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_settings.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-mdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btnref.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xhdpi\\btnref.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btnback.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xhdpi\\btnback.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btnbackpressed.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xhdpi\\btnbackpressed.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_btnback.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-ldpi\\btnback.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btnmenu.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\btnmenu.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_history.xml.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\layout\\view_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btnstop.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-hdpi\\btnstop.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_btnsmall.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-ldpi\\btnsmall.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btnstop.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\btnstop.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_back.xml.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xhdpi\\btn_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btnsmall.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\btnsmall.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_menu.xml.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-mdpi\\btn_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_home.xml.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xhdpi\\btn_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_settings.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-ldpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_settings.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btnbackpressed.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-hdpi\\btnbackpressed.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_delete.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\delete.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btnmenu.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-hdpi\\btnmenu.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btnref.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-mdpi\\btnref.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_exit.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\exit.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_exit.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xhdpi\\exit.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_exit.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-hdpi\\exit.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btngopressed.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xhdpi\\btngopressed.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_btnstoppressed.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-ldpi\\btnstoppressed.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btnsmall.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-mdpi\\btnsmall.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_btnstop.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-ldpi\\btnstop.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btnhome.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-mdpi\\btnhome.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btnhomepressed.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\btnhomepressed.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher1.jpg.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_asd.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-ldpi\\asd.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btnrefpressed.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\btnrefpressed.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_btnref.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-ldpi\\btnref.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_back.xml.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-hdpi\\btn_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btnfor.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xhdpi\\btnfor.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_delete.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-hdpi\\delete.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_btnhome.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-ldpi\\btnhome.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher1.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher1.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btnforpressed.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xhdpi\\btnforpressed.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btnhomepressed.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-hdpi\\btnhomepressed.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_asd.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\asd.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btnfor.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\btnfor.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btnmenupressed.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-hdpi\\btnmenupressed.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btngo.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-mdpi\\btngo.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btnsmallpressed.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xhdpi\\btnsmallpressed.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btnhomepressed.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-mdpi\\btnhomepressed.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_home.xml.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-mdpi\\btn_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_btnrefpressed.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-ldpi\\btnrefpressed.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btnstoppressed.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xhdpi\\btnstoppressed.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btngopressed.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-mdpi\\btngopressed.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btnstop.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-mdpi\\btnstop.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btnmenupressed.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-mdpi\\btnmenupressed.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btnsmallpressed.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\btnsmallpressed.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\xml_prefs.xml.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\xml\\prefs.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge_activity_ad_browser.xml.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\layout-xlarge\\activity_ad_browser.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btnfullpressed.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\btnfullpressed.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_btn_go.xml.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-ldpi\\btn_go.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btnfor.png.flat",
+        "source": "C:\\Users\\ADITYA\\AndroidStudioProjects\\ADBrowser\\app\\src\\main\\res\\drawable-hdpi\\btnfor.png"
+    }
+]

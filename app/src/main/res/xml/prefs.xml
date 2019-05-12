@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+ <PreferenceCategory
+     android:title="Homepage Settings" />
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="checkHome"
+        android:summary="Check to activate Homepage."
+        android:title="Homepage" />
+    
+    <EditTextPreference
+        android:defaultValue=""
+        android:key="editHome1"
+        android:summary="Enter the url of the website you want to keep as homepage for Tab 1."
+        android:title="Set Homepage(Tab 1)" />
+    <EditTextPreference
+        android:defaultValue=""
+        android:key="editHome2"
+        android:summary="Enter the url of the website you want to keep as homepage for Tab 2."
+        android:title="Set Homepage(Tab 2)" />
+    <EditTextPreference
+        android:defaultValue=""
+        android:key="editHome3"
+        android:summary="Enter the url of the website you want to keep as homepage for Tab 3."
+        android:title="Set Homepage(Tab 3)" />
+    <EditTextPreference
+        android:defaultValue=""
+        android:key="editHome4"
+        android:summary="Enter the url of the website you want to keep as homepage for Tab 4."
+        android:title="Set Homepage(Tab 4)" />
+    <EditTextPreference
+        android:defaultValue=""
+        android:key="editHome5"
+        android:summary="Enter the url of the website you want to keep as homepage for Tab 5."
+        android:title="Set Homepage(Tab 5)" />
+
+    <PreferenceCategory
+     android:title="Other Settings" />
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="checkJava"
+        android:summary="Check to enable Javascript."
+        android:title="Enable Javascript" />
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="checkImages"
+        android:summary="Load images automatically when a webpage opens."
+        android:title="Load Images" />
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="checkOverview"
+        android:summary="Load webpages in overview mode."
+        android:title="Overview Mode." />
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="checkCookies"
+        android:summary="Check to enable Cookies."
+        android:title="Enable Cookies." />
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="checkPlug"
+        android:summary="Check to enable Plugins."
+        android:title="Plugins." />
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="checkPass"
+        android:summary="Check to save Passwords."
+        android:title="Save Password." />
+
+</PreferenceScreen>

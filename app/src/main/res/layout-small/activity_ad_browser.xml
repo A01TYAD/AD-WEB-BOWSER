@@ -1,0 +1,799 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AD_browser" >
+
+    <TabHost
+        android:id="@+id/tabhost123"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TabWidget
+                android:id="@android:id/tabs"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" >
+            </TabWidget>
+
+            <FrameLayout
+                android:id="@android:id/tabcontent"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" >
+
+                <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx -->
+<LinearLayout
+                    android:id="@+id/tab1"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical" >
+
+                    <LinearLayout
+                        android:id="@+id/layout11"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/asd"
+                        android:orientation="horizontal" >
+
+                        <AutoCompleteTextView
+                            android:completionThreshold="1"
+                            android:id="@+id/txtUrl1"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="0.89"
+                            android:hint="Enter Url Here"
+                            android:inputType="textUri"
+                            android:selectAllOnFocus="true"
+                            android:singleLine="true" />
+
+                        <Button
+                            android:id="@+id/btnGo1"
+                            android:layout_width="45dp"
+                            android:layout_height="45dp"
+                            android:background="@drawable/btn_go" >
+                        </Button>
+                    </LinearLayout>
+                    
+                    <LinearLayout
+                        android:id="@+id/layout12"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/asd"
+                        android:orientation="horizontal"
+                        android:layout_gravity="center"
+                        android:weightSum="100" >
+
+                        <TextView
+                            android:layout_width="20dp"
+                            android:layout_height="30dp" />
+
+                        <Button
+                            android:id="@+id/btnBack1"
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:background="@drawable/btn_back" >
+                        </Button>
+
+                        <TextView
+                            android:layout_width="20dp"
+                            android:layout_height="30dp" />
+
+                        <Button
+                            android:id="@+id/btnForward1"
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:background="@drawable/btn_for" >
+                        </Button>
+
+                        <TextView
+                            android:layout_width="20dp"
+                            android:layout_height="30dp" />
+
+                        <Button
+                            android:id="@+id/btnRefresh1"
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:background="@drawable/btn_ref" >
+                        </Button>
+
+                        <TextView
+                            android:layout_width="20dp"
+                            android:layout_height="30dp" />
+
+                        <Button
+                            android:id="@+id/btnhome1"
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:background="@drawable/btn_home" >
+                        </Button>
+
+                        <TextView
+                            android:layout_width="20dp"
+                            android:layout_height="30dp" />
+
+                        <Button
+                            android:id="@+id/btnstop1"
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:background="@drawable/btn_stop" >
+                        </Button>
+
+                        <TextView
+                            android:layout_width="20dp"
+                            android:layout_height="30dp" />
+
+                        <Button
+                            android:id="@+id/btnmenu1"
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:background="@drawable/btn_menu" >
+                        </Button>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal" >
+
+                        <ProgressBar
+                            android:id="@+id/prgBar1"
+                            style="?android:attr/progressBarStyleHorizontal"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:visibility="gone" />
+                    </LinearLayout>
+                    
+
+                    <FrameLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="1" >
+
+                        <WebView
+                            android:id="@+id/wv1"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent" />
+
+                        <Button
+                            android:id="@+id/btnfull1"
+                            android:layout_width="40dp"
+                            android:layout_height="40dp"
+                            android:layout_gravity="bottom|right"
+                            android:alpha="0.9"
+                            android:background="@drawable/btn_full" />
+
+                        <Button
+                            android:id="@+id/btnsmall1"
+                            android:layout_width="40dp"
+                            android:layout_height="40dp"
+                            android:layout_gravity="bottom|right"
+                            android:alpha="0.9"
+                            android:background="@drawable/btn_small"
+                            android:visibility="gone" />
+                    </FrameLayout>
+
+                </LinearLayout>
+
+                              <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
+
+                <LinearLayout
+                    android:id="@+id/tab2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical" >
+
+                    <LinearLayout
+                        android:id="@+id/layout21"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/asd"
+                        android:orientation="horizontal" >
+
+                        <AutoCompleteTextView
+                            android:completionThreshold="1"
+                            android:id="@+id/txtUrl2"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="0.89"
+                            android:hint="Enter Url Here"
+                            android:inputType="textUri"
+                            android:selectAllOnFocus="true"
+                            android:singleLine="true" />
+
+                        <Button
+                            android:id="@+id/btnGo2"
+                            android:layout_width="45dp"
+                            android:layout_height="45dp"
+                            android:background="@drawable/btn_go" >
+                        </Button>
+                    </LinearLayout>
+                    
+                    <LinearLayout
+                        android:id="@+id/layout22"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/asd"
+                        android:orientation="horizontal"
+                        android:layout_gravity="center"
+                        android:weightSum="100" >
+
+                        <TextView
+                            android:layout_width="20dp"
+                            android:layout_height="30dp" />
+
+                        <Button
+                            android:id="@+id/btnBack2"
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:background="@drawable/btn_back" >
+                        </Button>
+
+                        <TextView
+                            android:layout_width="20dp"
+                            android:layout_height="30dp" />
+
+                        <Button
+                            android:id="@+id/btnForward2"
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:background="@drawable/btn_for" >
+                        </Button>
+
+                        <TextView
+                            android:layout_width="20dp"
+                            android:layout_height="30dp" />
+
+                        <Button
+                            android:id="@+id/btnRefresh2"
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:background="@drawable/btn_ref" >
+                        </Button>
+
+                        <TextView
+                            android:layout_width="20dp"
+                            android:layout_height="30dp" />
+
+                        <Button
+                            android:id="@+id/btnhome2"
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:background="@drawable/btn_home" >
+                        </Button>
+
+                        <TextView
+                            android:layout_width="20dp"
+                            android:layout_height="30dp" />
+
+                        <Button
+                            android:id="@+id/btnstop2"
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:background="@drawable/btn_stop" >
+                        </Button>
+
+                        <TextView
+                            android:layout_width="20dp"
+                            android:layout_height="30dp" />
+
+                        <Button
+                            android:id="@+id/btnmenu2"
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:background="@drawable/btn_menu" >
+                        </Button>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal" >
+
+                        <ProgressBar
+                            android:id="@+id/prgBar2"
+                            style="?android:attr/progressBarStyleHorizontal"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:visibility="gone" />
+                    </LinearLayout>
+                    
+
+                    <FrameLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="1" >
+
+                        <WebView
+                            android:id="@+id/wv2"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent" />
+
+                        <Button
+                            android:id="@+id/btnfull2"
+                            android:layout_width="40dp"
+                            android:layout_height="40dp"
+                            android:layout_gravity="bottom|right"
+                            android:alpha="0.9"
+                            android:background="@drawable/btn_full" />
+
+                        <Button
+                            android:id="@+id/btnsmall2"
+                            android:layout_width="40dp"
+                            android:layout_height="40dp"
+                            android:layout_gravity="bottom|right"
+                            android:alpha="0.9"
+                            android:background="@drawable/btn_small"
+                            android:visibility="gone" />
+                    </FrameLayout>
+
+                </LinearLayout>
+                <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
+
+                <LinearLayout
+                    android:id="@+id/tab3"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical" >
+
+                    <LinearLayout
+                        android:id="@+id/layout31"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/asd"
+                        android:orientation="horizontal" >
+
+                        <AutoCompleteTextView
+                            android:completionThreshold="1"
+                            android:id="@+id/txtUrl3"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="0.89"
+                            android:hint="Enter Url Here"
+                            android:inputType="textUri"
+                            android:selectAllOnFocus="true"
+                            android:singleLine="true" />
+
+                        <Button
+                            android:id="@+id/btnGo3"
+                            android:layout_width="45dp"
+                            android:layout_height="45dp"
+                            android:background="@drawable/btn_go" >
+                        </Button>
+                    </LinearLayout>
+                    
+                    <LinearLayout
+                        android:id="@+id/layout32"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/asd"
+                        android:orientation="horizontal"
+                        android:layout_gravity="center"
+                        android:weightSum="100" >
+
+                        <TextView
+                            android:layout_width="20dp"
+                            android:layout_height="30dp" />
+
+                        <Button
+                            android:id="@+id/btnBack3"
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:background="@drawable/btn_back" >
+                        </Button>
+
+                        <TextView
+                            android:layout_width="20dp"
+                            android:layout_height="30dp" />
+
+                        <Button
+                            android:id="@+id/btnForward3"
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:background="@drawable/btn_for" >
+                        </Button>
+
+                        <TextView
+                            android:layout_width="20dp"
+                            android:layout_height="30dp" />
+
+                        <Button
+                            android:id="@+id/btnRefresh3"
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:background="@drawable/btn_ref" >
+                        </Button>
+
+                        <TextView
+                            android:layout_width="20dp"
+                            android:layout_height="30dp" />
+
+                        <Button
+                            android:id="@+id/btnhome3"
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:background="@drawable/btn_home" >
+                        </Button>
+
+                        <TextView
+                            android:layout_width="20dp"
+                            android:layout_height="30dp" />
+
+                        <Button
+                            android:id="@+id/btnstop3"
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:background="@drawable/btn_stop" >
+                        </Button>
+
+                        <TextView
+                            android:layout_width="20dp"
+                            android:layout_height="30dp" />
+
+                        <Button
+                            android:id="@+id/btnmenu3"
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:background="@drawable/btn_menu" >
+                        </Button>
+                    </LinearLayout>
+                    <!--  -->
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal" >
+
+                        <ProgressBar
+                            android:id="@+id/prgBar3"
+                            style="?android:attr/progressBarStyleHorizontal"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:visibility="gone" />
+                    </LinearLayout>
+
+                    <FrameLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="1" >
+
+                        <WebView
+                            android:id="@+id/wv3"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent" />
+
+                        <Button
+                            android:id="@+id/btnfull3"
+                            android:layout_width="40dp"
+                            android:layout_height="40dp"
+                            android:layout_gravity="bottom|right"
+                            android:alpha="0.9"
+                            android:background="@drawable/btn_full" />
+
+                        <Button
+                            android:id="@+id/btnsmall3"
+                            android:layout_width="40dp"
+                            android:layout_height="40dp"
+                            android:layout_gravity="bottom|right"
+                            android:alpha="0.9"
+                            android:background="@drawable/btn_small"
+                            android:visibility="gone" />
+                    </FrameLayout>
+
+                </LinearLayout>
+                <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
+
+                <LinearLayout
+                    android:id="@+id/tab4"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical" >
+                        
+                    <LinearLayout
+                        android:id="@+id/layout41"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/asd"
+                        android:orientation="horizontal" >
+
+                        <AutoCompleteTextView
+                            android:completionThreshold="1"
+                            android:id="@+id/txtUrl4"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="0.89"
+                            android:hint="Enter Url Here"
+                            android:inputType="textUri"
+                            android:selectAllOnFocus="true"
+                            android:singleLine="true" />
+
+                        <Button
+                            android:id="@+id/btnGo4"
+                            android:layout_width="45dp"
+                            android:layout_height="45dp"
+                            android:background="@drawable/btn_go" >
+                        </Button>
+                    </LinearLayout>
+                                     
+                    <LinearLayout
+                        android:id="@+id/layout42"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/asd"
+                        android:orientation="horizontal"
+                        android:layout_gravity="center"
+                        android:weightSum="100" >
+
+                        <TextView
+                            android:layout_width="20dp"
+                            android:layout_height="30dp" />
+
+                        <Button
+                            android:id="@+id/btnBack4"
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:background="@drawable/btn_back" >
+                        </Button>
+
+                        <TextView
+                            android:layout_width="20dp"
+                            android:layout_height="30dp" />
+
+                        <Button
+                            android:id="@+id/btnForward4"
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:background="@drawable/btn_for" >
+                        </Button>
+
+                        <TextView
+                            android:layout_width="20dp"
+                            android:layout_height="30dp" />
+
+                        <Button
+                            android:id="@+id/btnRefresh4"
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:background="@drawable/btn_ref" >
+                        </Button>
+
+                        <TextView
+                            android:layout_width="20dp"
+                            android:layout_height="30dp" />
+
+                        <Button
+                            android:id="@+id/btnhome4"
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:background="@drawable/btn_home" />
+
+                        <TextView
+                            android:layout_width="20dp"
+                            android:layout_height="30dp" />
+
+                        <Button
+                            android:id="@+id/btnstop4"
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:background="@drawable/btn_stop" >
+                        </Button>
+
+                        <TextView
+                            android:layout_width="20dp"
+                            android:layout_height="30dp" />
+
+                        <Button
+                            android:id="@+id/btnmenu4"
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:background="@drawable/btn_menu" >
+                        </Button>
+                    </LinearLayout>
+                    <!--  -->
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal" >
+
+                        <ProgressBar
+                            android:id="@+id/prgBar4"
+                            style="?android:attr/progressBarStyleHorizontal"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:visibility="gone" />
+                    </LinearLayout>
+
+                    <FrameLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="1" >
+
+                        <WebView
+                            android:id="@+id/wv4"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent" />
+
+                        <Button
+                            android:id="@+id/btnfull4"
+                            android:layout_width="40dp"
+                            android:layout_height="40dp"
+                            android:layout_gravity="bottom|right"
+                            android:alpha="0.9"
+                            android:background="@drawable/btn_full" />
+
+                        <Button
+                            android:id="@+id/btnsmall4"
+                            android:layout_width="40dp"
+                            android:layout_height="40dp"
+                            android:layout_gravity="bottom|right"
+                            android:alpha="0.9"
+                            android:background="@drawable/btn_small"
+                            android:visibility="gone" />
+                    </FrameLayout>
+
+                </LinearLayout>
+                <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
+
+                <LinearLayout
+                    android:id="@+id/tab5"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical" >
+
+                    <LinearLayout
+                        android:id="@+id/layout51"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/asd"
+                        android:orientation="horizontal" >
+
+                        <AutoCompleteTextView
+                            android:completionThreshold="1"
+                            android:id="@+id/txtUrl5"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="0.89"
+                            android:hint="Enter Url Here"
+                            android:inputType="textUri"
+                            android:selectAllOnFocus="true"
+                            android:singleLine="true" />
+
+                        <Button
+                            android:id="@+id/btnGo5"
+                            android:layout_width="45dp"
+                            android:layout_height="45dp"
+                            android:background="@drawable/btn_go" >
+                        </Button>
+                    </LinearLayout>
+                    
+
+                    <LinearLayout
+                        android:id="@+id/layout52"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/asd"
+                        android:orientation="horizontal"
+                        android:layout_gravity="center"
+                        android:weightSum="100" >
+
+                        <TextView
+                            android:layout_width="20dp"
+                            android:layout_height="30dp" />
+
+                        <Button
+                            android:id="@+id/btnBack5"
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:background="@drawable/btn_back" >
+                        </Button>
+
+                        <TextView
+                            android:layout_width="20dp"
+                            android:layout_height="30dp" />
+
+                        <Button
+                            android:id="@+id/btnForward5"
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:background="@drawable/btn_for" >
+                        </Button>
+
+                        <TextView
+                            android:layout_width="20dp"
+                            android:layout_height="30dp" />
+
+                        <Button
+                            android:id="@+id/btnRefresh5"
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:background="@drawable/btn_ref" >
+                        </Button>
+
+                        <TextView
+                            android:layout_width="20dp"
+                            android:layout_height="30dp" />
+
+                        <Button
+                            android:id="@+id/btnhome5"
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:background="@drawable/btn_home" />
+
+                        <TextView
+                            android:layout_width="20dp"
+                            android:layout_height="30dp" />
+
+                        <Button
+                            android:id="@+id/btnstop5"
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:background="@drawable/btn_stop" >
+                        </Button>
+
+                        <TextView
+                            android:layout_width="20dp"
+                            android:layout_height="30dp" />
+
+                        <Button
+                            android:id="@+id/btnmenu5"
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:background="@drawable/btn_menu" >
+                        </Button>
+                    </LinearLayout>
+                    <!--  -->
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal" >
+
+                        <ProgressBar
+                            android:id="@+id/prgBar5"
+                            style="?android:attr/progressBarStyleHorizontal"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:visibility="gone" />
+                    </LinearLayout>
+
+                    <FrameLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="1" >
+
+                        <WebView
+                            android:id="@+id/wv5"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent" />
+
+                        <Button
+                            android:id="@+id/btnfull5"
+                            android:layout_width="40dp"
+                            android:layout_height="40dp"
+                            android:layout_gravity="bottom|right"
+                            android:alpha="0.9"
+                            android:background="@drawable/btn_full" />
+
+                        <Button
+                            android:id="@+id/btnsmall5"
+                            android:layout_width="40dp"
+                            android:layout_height="40dp"
+                            android:layout_gravity="bottom|right"
+                            android:alpha="0.9"
+                            android:background="@drawable/btn_small"
+                            android:visibility="gone" />
+                    </FrameLayout>
+
+                </LinearLayout>
+                <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx -->
+            </FrameLayout>
+        </LinearLayout>
+    </TabHost>
+
+</RelativeLayout>
